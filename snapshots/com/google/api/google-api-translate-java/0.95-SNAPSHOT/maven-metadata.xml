@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.api</groupId>
+  <artifactId>google-api-translate-java</artifactId>
+  <version>0.95-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20111105134025</lastUpdated>
+  </versioning>
+</metadata>
